@@ -1,0 +1,13 @@
+{
+  "name": "ovvoc-test-growth-14",
+  "version": "1.0.0",
+  "description": "Landing page with Tailwind CSS v2",
+  "scripts": {
+    "test": "node test/config.test.js"
+  },
+  "devDependencies": {
+    "tailwindcss": "2.2.19",
+    "autoprefixer": "10.4.16",
+    "postcss": "8.4.32"
+  }
+}
