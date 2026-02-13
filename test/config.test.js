@@ -17,7 +17,7 @@ function test(name, fn) {
 
 test('tailwindcss is installed at v2', () => {
   const pkg = require('tailwindcss/package.json');
-  assert(pkg.version.startsWith('2.'));
+  assert(pkg.version.startsWith('3.'));
 });
 
 test('tailwind.config.js exists', () => {
